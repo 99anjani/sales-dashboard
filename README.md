@@ -16,7 +16,7 @@ An interactive **Power BI dashboard** developed to analyze supermarket sales dat
 
 ## Dashboard Preview
 
-![Supermarket Sales Dashboard](dashbboard/sales-dashboard.png)
+![Supermarket Sales Dashboard]([dashbboard/sales-dashboard.png](https://github.com/99anjani/sales-dashboard/blob/main/dashboard/sales-dashboard.png))
 
 ## Key Metrics
 
